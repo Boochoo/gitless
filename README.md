@@ -1,0 +1,12 @@
+This is a repo to check another repo.
+
+:w
+:wq
+		:wq:
+
+i
+
+
+
+
+:	
